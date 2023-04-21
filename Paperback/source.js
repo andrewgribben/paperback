@@ -2620,7 +2620,7 @@ const Common_1 = require("./Common");
 //  - search method which is called even if the user search in an other source
 exports.PaperbackInfo = {
     version: "1.2.9",
-    name: "Paperback",
+    name: "Komga",
     icon: "icon.png",
     author: "Lemon | Faizan Durrani",
     authorWebsite: "https://github.com/FramboisePi",
